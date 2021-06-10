@@ -2,8 +2,8 @@ package main
 
 import (
 	"flag"
+	"github.com/HuguesBt/go-picture/pkg/picture"
 	"log"
-	"picture/pkg/picture"
 )
 
 var (

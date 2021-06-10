@@ -1,4 +1,4 @@
-module picture
+module github.com/HuguesBt/go-picture
 
 go 1.15
 
